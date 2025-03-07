@@ -1,6 +1,6 @@
-# **🍽️ Meals App**
+# **🍽️ Meals Recipe App**
 
-The **Meals App** is a simple and easy-to-use Flutter application that helps users explore different meal options, view detailed recipes, and save their favorite meals. It comes with dietary filters, allowing users to personalize their experience based on their food preferences.
+The **Meals Recipe App** is a simple and easy-to-use Flutter application that helps users explore different meal options, view detailed recipes, and save their favorite meals. It comes with dietary filters, allowing users to personalize their experience based on their food preferences.
 
 ---
 
